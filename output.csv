@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_27,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_28,400.0,affordable_with_plan,installments,2024-06-07:651.2|2024-07-07:651.2,2024-07-07,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_29,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_30,600.0,affordable_with_plan,installments,2026-04-06:387.6|2026-05-06:387.6,2026-05-06,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_31,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_32,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_33,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_34,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_35,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_36,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_37,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_38,971.3,affordable_now,full_payment,none,2025-08-07,none,User has enough clear balance to pay 971.3 while maintaining the minimum floor of 400.0.
+request_39,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_40,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_41,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_42,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_43,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_44,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_45,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_46,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_47,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_48,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_49,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_50,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_51,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_52,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_53,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_54,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_55,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_56,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_57,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_58,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_59,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_60,199.89,affordable_now,full_payment,none,2026-01-06,none,User has enough clear balance to pay 199.89 while maintaining the minimum floor of 400.0.
+request_61,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_62,200.0,affordable_with_plan,installments,2025-08-05:202.12|2025-09-04:202.12,2025-09-04,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_63,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_64,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_65,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_66,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_67,300.0,affordable_later,wait,none,2024-10-20,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_68,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_69,529.1,affordable_now,full_payment,none,2026-01-04,none,User has enough clear balance to pay 529.1 while maintaining the minimum floor of 700.0.
+request_70,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_71,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_72,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_73,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_74,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_75,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_76,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_77,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_78,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_79,500.0,affordable_later,wait,none,2024-10-19,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_80,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_81,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_82,400.0,affordable_later,wait,none,2025-01-19,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_83,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_84,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_85,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_86,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_87,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_88,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_89,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_90,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_91,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_92,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_93,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_94,572.0,affordable_now,full_payment,none,2024-12-04,none,User has enough clear balance to pay 572.0 while maintaining the minimum floor of 600.0.
+request_95,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_96,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_97,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_98,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_99,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_100,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_101,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_102,600.0,affordable_with_plan,installments,2026-04-05:858.0|2026-05-05:858.0,2026-05-05,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_103,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_104,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_105,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_106,300.0,affordable_later,wait,none,2025-01-17,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_107,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_108,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_109,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_110,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_111,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_112,271.7,affordable_now,full_payment,none,2024-06-05,none,User has enough clear balance to pay 271.7 while maintaining the minimum floor of 500.0.
+request_113,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_114,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_115,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_116,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_117,500.0,affordable_with_plan,installments,2026-07-05:440.0|2026-08-04:440.0,2026-08-04,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_118,738.1,affordable_now,full_payment,none,2024-12-07,none,User has enough clear balance to pay 738.1 while maintaining the minimum floor of 600.0.
+request_119,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_120,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_121,633.6,affordable_now,full_payment,none,2024-03-03,none,User has enough clear balance to pay 633.6 while maintaining the minimum floor of 800.0.
+request_122,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_123,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_124,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_125,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_126,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_127,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_128,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_129,700.0,affordable_later,wait,none,2026-05-19,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_130,100.0,affordable_later,wait,none,2025-01-20,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_131,400.0,affordable_later,wait,none,2025-06-17,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_132,379.86,affordable_now,full_payment,none,2026-01-05,none,User has enough clear balance to pay 379.86 while maintaining the minimum floor of 1100.0.
+request_133,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_134,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_135,304.8,affordable_now,full_payment,none,2026-07-06,none,User has enough clear balance to pay 304.8 while maintaining the minimum floor of 500.0.
+request_136,400.0,affordable_with_plan,installments,2024-06-03:280.2|2024-07-03:280.2,2024-07-03,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_137,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_138,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_139,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_140,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_141,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_142,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_143,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_144,233.34,affordable_now,full_payment,none,2026-07-04,none,User has enough clear balance to pay 233.34 while maintaining the minimum floor of 600.0.
+request_145,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_146,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_147,600.0,affordable_with_plan,installments,2026-04-05:564.85|2026-05-05:564.85,2026-05-05,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_148,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_149,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_150,496.1,affordable_now,full_payment,none,2026-01-06,none,User has enough clear balance to pay 496.1 while maintaining the minimum floor of 700.0.
+request_151,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_152,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_153,100.0,affordable_later,wait,none,2026-08-21,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_154,200.0,affordable_later,wait,none,2025-01-18,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_155,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_156,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_157,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_158,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_159,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_160,300.0,affordable_later,wait,none,2024-07-21,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_161,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_162,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_163,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_164,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_165,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_166,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_167,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_168,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_169,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_170,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_171,1000.0,affordable_with_plan,installments,2026-07-03:939.4|2026-08-02:939.4,2026-08-02,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_172,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_173,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_174,800.0,affordable_with_plan,installments,2026-04-04:573.1|2026-05-04:573.1,2026-05-04,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_175,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_176,900.0,affordable_with_plan,installments,2025-02-03:619.85|2025-03-05:619.85,2025-03-05,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_177,200.0,affordable_later,wait,none,2026-02-19,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_178,100.0,affordable_later,wait,none,2025-01-21,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_179,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_180,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_181,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_182,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_183,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_184,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_185,200.0,affordable_later,wait,none,2025-12-21,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_186,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_187,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_188,600.0,affordable_later,wait,none,2025-03-24,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_189,488.4,affordable_now,full_payment,none,2026-07-04,none,User has enough clear balance to pay 488.4 while maintaining the minimum floor of 400.0.
+request_190,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_191,664.4,affordable_now,full_payment,none,2025-05-03,none,User has enough clear balance to pay 664.4 while maintaining the minimum floor of 500.0.
+request_192,500.0,affordable_later,wait,none,2026-05-20,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_193,500.0,affordable_with_plan,installments,2024-03-07:606.1|2024-04-06:606.1,2024-04-06,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_194,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_195,800.0,affordable_with_plan,installments,2026-01-06:585.2|2026-02-05:585.2,2026-02-05,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_196,762.3,affordable_now,full_payment,none,2024-06-03,none,User has enough clear balance to pay 762.3 while maintaining the minimum floor of 500.0.
+request_197,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_198,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_199,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_200,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_201,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_202,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_203,100.0,affordable_later,wait,none,2025-06-21,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_204,200.0,affordable_with_plan,installments,2026-01-04:294.37|2026-02-03:294.37,2026-02-03,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_205,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_206,600.0,affordable_with_plan,installments,2025-08-03:702.35|2025-09-02:702.35,2025-09-02,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_207,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_208,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_209,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_210,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_211,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_212,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_213,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_214,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_215,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_216,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_217,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_218,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_219,400.0,affordable_later,wait,none,2026-05-19,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_220,400.0,affordable_later,wait,none,2024-07-21,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_221,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_222,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_223,700.0,affordable_with_plan,installments,2024-09-07:449.35|2024-10-07:449.35,2024-10-07,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_224,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_225,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_226,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_227,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_228,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_229,500.0,affordable_with_plan,installments,2024-03-04:763.4|2024-04-03:763.4,2024-04-03,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_230,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_231,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_232,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_233,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_234,800.0,affordable_with_plan,installments,2026-07-04:606.65|2026-08-03:606.65,2026-08-03,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_235,800.0,affordable_with_plan,installments,2024-09-06:483.6|2024-10-06:483.6,2024-10-06,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_236,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_237,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_238,663.6,affordable_now,full_payment,none,2024-12-07,none,User has enough clear balance to pay 663.6 while maintaining the minimum floor of 700.0.
+request_239,642.0,affordable_now,full_payment,none,2025-05-04,none,User has enough clear balance to pay 642.0 while maintaining the minimum floor of 600.0.
+request_240,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_241,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_242,900.0,affordable_with_plan,installments,2025-08-05:983.4|2025-09-04:983.4,2025-09-04,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_243,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_244,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_245,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_246,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_247,200.0,affordable_later,wait,none,2024-10-20,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_248,200.0,affordable_later,wait,none,2025-03-24,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_249,643.2,affordable_now,full_payment,none,2026-01-04,none,User has enough clear balance to pay 643.2 while maintaining the minimum floor of 600.0.
+request_250,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_251,200.0,affordable_later,wait,none,2025-06-17,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_252,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_253,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_254,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_255,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_256,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_257,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_258,1000.0,affordable_with_plan,installments,2026-01-07:556.8|2026-02-06:556.8,2026-02-06,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_259,900.0,affordable_with_plan,installments,2024-09-04:467.5|2024-10-04:467.5,2024-10-04,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_260,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_261,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_262,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_263,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_264,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_265,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_266,600.0,affordable_with_plan,installments,2025-08-03:467.5|2025-09-02:467.5,2025-09-02,none,Initial liquidity covers first installment; balance scheduled for next pay period.
+request_267,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_268,100.0,affordable_later,wait,none,2024-07-22,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_269,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_270,100.0,affordable_later,wait,none,2026-08-20,reduce_to:dining:50,Postponing purchase allows accumulation of sufficient reserves without breaching safe limits.
+request_271,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_272,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_273,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_274,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
+request_275,0.0,not_affordable,not_recommended,none,none,stop:subscriptions,Current available liquidity is below minimum required cash reserves.
